@@ -1,0 +1,74 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    list-style: none;
+}
+body{
+    background-color: #c05252fb;
+    color: white;
+    font-family: 'Noto Sans Georgian', sans-serif;
+}
+.box{
+    margin: 200px 0px
+    0px 410px ;
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+    background-color: rgb(0, 0, 0, 0.7);
+    border-radius: 15px;
+}
+.email{
+    background: rgb(0, 0, 0, 0.2) ;
+    border: 1px solid white;
+    height: 30px;
+    border-radius: 13px;
+    margin-top: 55px;
+    margin-left: 14px;
+    color: white;
+}
+.password{
+    background: rgb(0, 0, 0, 0.2) ;
+    border: 1px solid white;
+    height: 30px;
+    border-radius: 13px;
+    margin-top: 25px;
+    margin-left: 14px;
+    color: white;
+    font-size: 15px;
+}
+.pleaselogin{
+    margin-top: 15px;
+    margin-left: 43px;
+    position: absolute;
+
+}
+.user{
+    background: transparent;
+    border: none;
+    position: absolute;
+    color: white;
+    margin-top: 58px;
+    margin-left: -164px;
+}
+.key{
+    background: transparent;
+    border: none;
+    position: absolute;
+    color: white;
+    margin-top: 28px;
+    margin-left: -166px;
+}
+.Login{
+    background: rgb(243, 81, 81);
+    border: white;
+    width: 70px;
+    height: 33px;
+    cursor: pointer;
+    border-radius: 10px;
+    color: white;
+    font-size: 17px;
+    font-family: 'Noto Sans Georgian', sans-serif;
+    margin-left: 60px;
+    margin-top: 15px;
+}
